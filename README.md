@@ -14,7 +14,7 @@
 		algorithm to increase their speed. Booth's algorithm is of interest in the study of computer architecture.[1]
 	</p>
 	</br>
-	[1] <a href="https://en.wikipedia.org/wiki/Booth's_multiplication_algorithm">Booth's multiplication algorithm</a>
+	<a href="https://en.wikipedia.org/wiki/Booth's_multiplication_algorithm">Booth's multiplication algorithm wiki</a>
 
 	<h5>Screenshots:</h5>
 		<img src="https://raw.githubusercontent.com/harsh91/simulation/master/simulation.png" alt="Screenshots"/><br><br>
